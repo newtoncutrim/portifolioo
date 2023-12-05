@@ -257,7 +257,7 @@ header #logo span {
 /* Skills Styles */
 
 #Habilidades {
-    margin-bottom: 70px;
+    margin-bottom: 90px;
 }
 
 .hab-title {
@@ -275,7 +275,7 @@ header #logo span {
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    margin: 25px 0;
+    margin: 25px 0; 
 }
 
 /* #Habilidades .line-1 .html {
@@ -285,7 +285,7 @@ header #logo span {
 
 #Habilidades .lang img {
     width: 500px;
-    margin-left: 50px;
+    margin-left: 80px;
 }
 
 /* Experience Styles */
